@@ -1,5 +1,5 @@
 interface Product {
-    id: string,
+    id: any,
     name: string,
     price: number,
     quantity: number,
